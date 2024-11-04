@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KeepIt_task": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\input_file_example.xml"
+    }
+  }
+}
